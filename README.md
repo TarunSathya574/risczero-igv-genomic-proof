@@ -1,3 +1,14 @@
 # risczero-igv-genomic-proof
+
  
-# Problem Statemnt:
+# Problem Statement: 
+
+# Solution 
+
+# Execution Screenshots 
+
+
+
+# Video 
+
+
