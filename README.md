@@ -13,7 +13,7 @@ Host main file - proof generation/receipt
 ![image](https://github.com/user-attachments/assets/d198a4f4-b74f-4392-b318-1282934eaa45)
 
 JSON File - patient's genome without Cystic Fibrosis 
-![image](https://github.com/user-attachments/assets/c6785a08-5e4b-4d1e-a828-f552189081af)
+![image](https://github.com/user-attachments/assets/2e3fbf56-2764-4cbe-b063-bb6764dcdbca)
 
 Invalid Proof
 ![image](https://github.com/user-attachments/assets/cb51a006-a797-42e0-84d9-a2cd4918fb93)
