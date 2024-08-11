@@ -22,6 +22,7 @@ JSON File - patient's genome with Cystic Fibrosis
 ![image](https://github.com/user-attachments/assets/dbc81df1-081a-430f-82c7-e46313d07b2e)
 
 Valid Proof
+
 ![image](https://github.com/user-attachments/assets/23c6ab2c-189d-4b38-86e8-547d7acc65c9)
 
 # Video 
