@@ -28,6 +28,6 @@ Valid Proof - Chromosome 7 has the mutation sequence for Cystic Fibrosis
 ![image](https://github.com/user-attachments/assets/23c6ab2c-189d-4b38-86e8-547d7acc65c9)
 
 # Next Steps
-We would like to explore zero-knowledge machine learning, in addition to differential privacy and homomorphic encryption, and analyze how ZK fits within the current security measures for not just genomic data, but also for multi-omic data(transcriptomic,proteomic,etc.)
+We would like to explore zero-knowledge machine learning, in addition to differential privacy and homomorphic encryption, and analyze how ZK enhances the current security measures for not just genomic data, but also for multi-omic data(transcriptomic,proteomic,etc.)
 
 
