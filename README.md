@@ -5,7 +5,7 @@ Using the Risczero protocol for zero knowledge proofs, we made a representation 
 
  
 # Problem Statement: 
-Due to HIPAA and other privacy concerns with biomedical data, privacy preserving data sharing across research institutions and industries is vital for meeting strict constraints. Recent data leaks at 23andme where many genomic profiles of patients were exposed are proof of this urgent need to integrate privacy preserving in the era of genomic medicine and gene therapies, where data sharing is crucial for effective data analysis and AI based personalized therapeutic development using technologies such as Crispr Cas 9.  
+Due to HIPAA and other privacy concerns with biomedical data, privacy preserving data sharing across research institutions and industries is vital for meeting strict constraints. Recent data leaks at 23andme where many genomic profiles of patients were exposed are proof of this urgent need to integrate privacy preserving cryptography in the era of genomic medicine and gene therapies, where data sharing is crucial for effective data analysis and AI based personalized therapeutic development using technologies such as Crispr Cas 9.  
 # Solution 
 We implemented a basic genomic proof showing that a patient had or didn't have a specific mutation for a rare genetic disease called cystic fibrosis using Risczero within a 24-48 hour timeframe using cryptographic techniques such as sha -256 hashing and ZK proof infrastructures in collaboration with the Risczero team at ZK Hack Montreal. 
 # Execution Screenshots
